@@ -20,7 +20,7 @@
 
 3. Лабораторная работа №3 — NCO
    
-   Отчёт: [ссылка]
+   Отчёт: [(https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab3.md?ref_type=heads)]
 
 4. Лабораторная работа №4 — FIR Filter  
    
