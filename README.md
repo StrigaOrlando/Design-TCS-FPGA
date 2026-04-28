@@ -24,7 +24,7 @@
 
 4. Лабораторная работа №4 — FIR Filter  
    
-   Отчёт: [ссылка]
+   Отчёт: [(https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab4.md?ref_type=heads)]
 
 ## Структура репозитория
 
