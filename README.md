@@ -12,19 +12,19 @@
 
 1. Лабораторная работа №1 — Начало работы
 
-   Отчёт: [https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab1.md?ref_type=heads]
+   Отчёт: [https://github.com/StrigaOrlando/Design-TCS-FPGA/blob/main/reports/lab1.md]
 
 2. Лабораторная работа №2 — LFSR
 
-   Отчёт: [https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab2.md?ref_type=heads]
+   Отчёт: [https://github.com/StrigaOrlando/Design-TCS-FPGA/blob/main/reports/lab2.md]
 
 3. Лабораторная работа №3 — NCO
    
-   Отчёт: [(https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab3.md?ref_type=heads)]
+   Отчёт: [https://github.com/StrigaOrlando/Design-TCS-FPGA/blob/main/reports/lab3.md]
 
 4. Лабораторная работа №4 — FIR Filter  
    
-   Отчёт: [(https://gitlab.tcs.miet.ru/8221028/design-tcs-fpga/-/blob/main/reports/lab4.md?ref_type=heads)]
+   Отчёт: [https://github.com/StrigaOrlando/Design-TCS-FPGA/blob/main/reports/lab4.md]
 
 ## Структура репозитория
 
